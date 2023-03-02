@@ -1,0 +1,7 @@
+.nav {
+  justify-content: space-between;
+}
+li {
+  display: inline;
+  padding-right: 2rem;
+}
